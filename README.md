@@ -41,18 +41,18 @@ El contenido de este repositorio se basa principalmente en el curso de JavaScrip
 
 * [x] Funciones anónimas
 * [x] Arrow Functions
-* [ ] Arrow Functions con `forEach()`
+* [x    ] Arrow Functions con `forEach()`
 
 ---
 
 ## 2. Objetos y JavaScript moderno
 
-* [ ] Objetos anidados
-* [ ] Optional Chaining `?.`
-* [ ] Métodos de objetos
-* [ ] Uso de `this`
-* [ ] Destructuring de objetos
-* [ ] Valor vs referencia
+* [x] Objetos anidados
+* [x] Optional Chaining `?.`
+* [x] Métodos de objetos
+* [x] Uso de `this`
+* [x] Destructuring de objetos
+* [x] Valor vs referencia
 
 ---
 
